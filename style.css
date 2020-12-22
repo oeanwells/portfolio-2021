@@ -1,6 +1,22 @@
 body {
-    margin: 0 auto;
-    max-width: 50em;
-    background-color: #c98c84;
-    font-family: 'Bebas Neue', cursive;
+  margin: 0 auto;
+  background-color: #c98c84;
+  font-family: "Noto Sans JP", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
+  text-align: center;
 }
+
+header h1 {
+  color: #f8f6f6;
+  font-size: 20vh;
+}
+header h2 {
+  font-size: 5vh;
+}
+
+.thumbnail {
+  max-width: 300px !important;
+  width: 100% !important;
+}
+
+/*# sourceMappingURL=style.css.map */
